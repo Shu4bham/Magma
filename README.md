@@ -1,5 +1,5 @@
 # Magma
-# Clone of <a href = "https://thisismagma.com/"> Magma.com</a>
+# Clone of <a href = "https://thisismagma.com/"> thisisagma.com</a>
 This repository contains a clone of the landing page of the website https://thisismagma.com/. The purpose of this project is to practice web development skills, including HTML, CSS, and JavaScript, by recreating the design and layout of the Magma website. The clone also features a soothing canvas animation to enhance the user experience.
 
 Magma is a groundbreaking platform that integrates an interactive 3D model with blockchain layers, enabling collaboration between stakeholders in a secure, agile, and robust digital environment.
