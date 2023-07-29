@@ -7,4 +7,5 @@ It is a Web3 platform for all real estate stakeholders, which provides users wit
 
 # Demo
 <a href="https://magma-dtt.vercel.app/" >Try magma</a>
+<br>
 You can see a live demo of this landing page clone, including the soothing canvas animation, at https://magma-dtt.vercel.app/
